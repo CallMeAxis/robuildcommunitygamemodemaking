@@ -6,8 +6,6 @@ NO SCRIPTS ALLOWED because people try to inject games.
 
 DO NOT MAKE THE BASEPLATE BIGGER THAN THE NORMAL ROBLOX SIZED BASEPLATE.
 
-NO FREE MODELS ALLOWED
-
 thanks for reading..
 
 -- AxisAgent
