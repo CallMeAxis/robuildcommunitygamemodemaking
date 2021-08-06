@@ -1,12 +1,12 @@
-PLEASE GET THE MAP MAKING KIT HERE:https://web.roblox.com/library/7142237854/MapMakingKit
+PLEASE GET THE MODE MAKING KIT HERE:nil
+
+BEFORE DOING THIS ITS RECOMMENDED TO HAVE A UNDERSTANDING OF ROBLOX LUA.
 
 PLEASE DO NOT USE FREE MODELS
 
-NO SCRIPTS ALLOWED because people try to inject games.
-
-DO NOT MAKE THE BASEPLATE BIGGER THAN THE NORMAL ROBLOX SIZED BASEPLATE.
+NO SCRIPTS ALLOWED OTHER THAN MAIN.LUA because people try to inject games.
 
 thanks for reading..
 
 -- AxisAgent
--- Robuild Map Making Kit 2021.
+-- Robuild GameMode Making Kit 2021.
