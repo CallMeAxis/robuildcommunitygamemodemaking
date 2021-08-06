@@ -6,6 +6,8 @@ PLEASE DO NOT USE FREE MODELS
 
 NO SCRIPTS ALLOWED OTHER THAN MAIN.LUA because people try to inject games.
 
+Functions Like require() or getfenv() are not allowed because people try to inject games again!
+
 thanks for reading..
 
 -- AxisAgent
